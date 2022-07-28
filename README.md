@@ -16,3 +16,7 @@ The program should consist of functions:
      - void lineSort(char *str[],int size) - a function that sorts an array of pointers
      - void printLines(const char *str[],int size) - a function that prints lines in the order of the str array
      - main() - organization of string input into a two-dimensional character array
+Three files are created: task1.h, task1.cpp, main1.cpp.
+
+
+Task 2:
