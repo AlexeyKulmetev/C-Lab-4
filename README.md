@@ -1,7 +1,7 @@
 # C-Lab-4
 Tasks:
 
-Task 1:
+Task 1: 
 Write a program that allows the user to enter multiple lines on the keyboard 
 and then prints them out in ascending order of line length.
 
